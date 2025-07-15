@@ -11,7 +11,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
 - 👨‍💻 Desarrollador Web y Móvil Full-Stack
-- 🎓 Estudiante de Ingeniería en Desarrollo y Gestión de Software
+- 🎓 Ingeniero en Desarrollo y Gestión de Software
 - 🌐 Desarrollo con tecnologías modernas como Kotlin, Firebase y Laravel
 - 🧠 En constante aprendizaje de nuevas tecnologías
 - 🚀 Buscando oportunidades para aplicar mis habilidades en proyectos reales
