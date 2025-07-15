@@ -86,19 +86,6 @@ Sistema web para administración de afiliados de la Cámara de Comercio.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/hugonorberto">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugonorberto&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=36BCF7&icon_color=4A90E2&text_color=FFFFFF&bg_color=0,0E1E2E,2C3E50" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugonorberto&show_icons=true&locale=en&layout=compact&title_color=36BCF7&text_color=FFFFFF&bg_color=0,0E1E2E,2C3E50" width="375"/>
-</a>
-
-</div>
-
----
-
 ## 🤝 Conectemos <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
 <div align='left'>
